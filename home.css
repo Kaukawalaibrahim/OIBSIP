@@ -1,0 +1,16 @@
+#main {
+    border: 2px,solid,black;
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    margin-left: 35%;
+    margin-top: 15%;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    padding-left: 70px;
+}
+button{
+    align-content: center;
+    margin-left: 85px;
+}
